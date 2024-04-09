@@ -163,6 +163,22 @@
  </tr>
 </table>
 <br><br>
+<div align="left">
+  <h3> 🐍Contributions :</h3>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/walidhsn/walidhsn/blob/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
+<hr/>
+<h2 align="left"> ⚡Stats:</h2>
+<br>
+<div align=left>
+  <img width=390 align="left" src="https://github-readme-stats.vercel.app/api?username=amira-1manai
+&count_private=true&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amira-1manai
+&hide=HTML&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+   
+</div>
 
 
 </div>
